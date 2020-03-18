@@ -4,7 +4,7 @@ This is the repository for my final project.
 
 ## Presentation video
 
-[![Presentation Video](https://img.youtube.com/vi/d3OdB0p94Cg/2.jpg)](https://youtu.be/d3OdB0p94Cg)
+[![Presentation Video](https://img.youtube.com/vi/d3OdB0p94Cg/2.jpg)](https://www.youtube.com/watch?v=d3OdB0p94Cg&feature=youtu.be)
 
 ## Overview of submission materials
 
