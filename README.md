@@ -1,3 +1,11 @@
+# Big Data 220 Final Project: NYC Taxi Data Streaming
+
+This is the repository for my final project.
+
+## Presentation video
+
+[![Presentation Video](https://img.youtube.com/vi/d3OdB0p94Cg/2.jpg)](https://youtu.be/d3OdB0p94Cg)
+
 ## Overview of submission materials
 
 Included files:
