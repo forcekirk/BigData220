@@ -1,0 +1,14 @@
+
+//Stream setup commands
+//In the context of /kafka-docker/
+sudo ./start-kafka-shell.sh UbuntuServer027.westus2.cloudapp.azure.com:9092
+
+//In the context of /opt/bin/kafka
+kafka-topics.sh --create -bootstrap-server UbuntuServer027.westus2.cloudapp.azure.com:9092 -topic FinalProject
+
+//Download the taxi data simulator
+wget https://bigdatatechnologiesstor.blob.core.windows.net/data/taxi_simulator.jar
+
+//Run the taxi data 
+java -jar taxi_simulator.jar UbuntuServer027.westus2.cloudapp.azure.com 9092 FinalProject
+
