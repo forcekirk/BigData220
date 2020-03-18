@@ -3,8 +3,8 @@
 Included files:
   - [FinalPresentation.pdf](FinalPresentation.pdf): Slides used in presentation 
   - [TerminalCommands.txt](TerminalCommands.txt): Terminal commands used to setup Kafka topic and run stream
-  - [Big Data 220 Final Project.html](Big Data 220 Final Project.html): Spark Notebook for reading stream
-  - [Big Data 220 Final Project R.html](Big Data 220 Final Project R.html) SparkR Notebook used for analysis
+  - [Big Data 220 Final Project.html](BigData220FinalProject.html): Spark Notebook for reading stream
+  - [Big Data 220 Final Project R.html](BigData220FinalProjectR.html) SparkR Notebook used for analysis
   - [MapPlots.R](MapPlots.R) R script for mapping taxi data
   - [TipData.csv](TipData.csv) Tip, ride count, and location data
 
