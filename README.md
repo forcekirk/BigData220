@@ -1,7 +1,7 @@
 ## Overview of submission materials
 
 Included files:
-  - [FinalPresentation.pdf](FinalPresentation.pdf): Slides used in presentation 
+  - [FinalPresentation.pdf](FinalPresentation220.pdf): Slides used in presentation 
   - [TerminalCommands.txt](TerminalCommands.txt): Terminal commands used to setup Kafka topic and run stream
   - [Big Data 220 Final Project.html](BigData220FinalProject.html): Spark Notebook for reading stream
   - [Big Data 220 Final Project R.html](BigData220FinalProjectR.html) SparkR Notebook used for analysis
